@@ -1,0 +1,27 @@
+---
+- name: Matt Lehman
+  organization: Matt Lehman Studio
+  twitter: matt_lehman
+  image_filename: matt.jpg
+  websites:
+    - "MattLehmanStudio.com"
+  bio: |
+       <p>Matt Lehman has worked in graphic design specializing in advertising and branding for 10+ years. He began his career at Anderson Design Group in Nashville. After that he spent three years as senior designer for CMT/MTV Networks focusing on show identities and the network rebrand in 2009. In 2010, he formed Matt Lehman Studio working for brands such as ESPN, Harper Collins, The Atlantic, Esquire, NASA, Nickelodeon and Warner Brothers Records to name a few.</p>
+
+- name: Micah Smith
+  organization:
+  twitter: amicahsmith
+  image_filename: ams.jpg
+  websites:
+    - "AMicahSmith.com"
+  bio: >
+       <p>A Tennessee native, Sasha began making silkscreen posters for Memphis' independent music scene in 2001, while earning a degree in printmaking at the University. The posters paved the way for new design clients locally and nationally, and led to a myriad of experiences and growth in the freelance design and illustration world. A year after graduating from the University, he relocated to Seattle, WA in 2007 for a change of scenery and new opportunities. He lucked his way in to the art department of Sub Pop Records, where he has been since. When not toiling away with albums and other label goods, he finds some time for Amigos Skateboards, a skateboard company he art directs and co-owns with a group of friends, and the occasional freelance or poster gig. He has fallen for the Northwest, but deeply misses the South.</p>
+
+- name: April Maglothin
+  organization: MagloCreative
+  twitter:
+  image_filename: april.jpg
+  websites:
+    - "MagloCreative.com"
+  bio: >
+       <p>Lover of gluten free baked goods, her family, San Francisco & coffee, Nashville, Tennessee based April Maglothin wears many hats. As consultant and creative director for MagloCreative she works to find solutions to shape and elevate brands for her clients such as The Frist & Belmont University. As owner & creative director of pop-in-greetings, she works to spread a little old school happiness and convenience through snail mail. Pop-in-greetings has been featured by tastemakers such as Real Simple & Martha Stewart Living and can be found online at Food52, Brit + Co and the Martha Stewart American Made shop as well as boutique retailers across the country.</p>

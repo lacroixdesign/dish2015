@@ -1,0 +1,42 @@
+.mod-logo {
+  max-width: 190px;
+  margin: 0 auto;
+  @include transition (all 0.4s ease-in-out);
+
+  img {
+    display: block;
+    width: 100%;
+  }
+
+  @include media($breakpoint-ipad) {
+    max-width: 300px;
+  }
+
+  @include media($breakpoint-desktop) {
+    max-width: 400px;
+  }
+}
+
+.mod-date {
+  color: $light-blue;
+  font-family: $typeface-script;
+  font-weight: 400;
+  font-size: 1em;
+  margin:.75em 0;
+  text-shadow: 0 1px 1px lighten($off-white, 10);
+  @include transition (all 0.4s ease-in-out);
+
+  @include media(480px) {
+    font-size: 1.5em;
+  }
+
+  @include media($breakpoint-ipad) {
+    font-size: 1.75em;
+  }
+}
+
+.mod-price {
+  color: $black;
+  text-shadow: 0 1px 1px lighten($off-white, 10);
+  margin-top: 1.5em;
+}
