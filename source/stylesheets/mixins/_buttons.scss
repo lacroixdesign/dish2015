@@ -11,7 +11,7 @@
   background: $bg;
   font-family: $typeface-sans;
   text-decoration: none;
-  text-shadow: 0 -1px 1px darken($bg, 15%);
+  text-shadow: 0 -1px 1px darken($bg, 5%);
 
   &:focus,
   &:visited {
